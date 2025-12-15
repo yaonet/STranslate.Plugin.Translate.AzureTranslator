@@ -1,0 +1,10 @@
+{
+  "PluginID": "f7e2a4b6c8d9e0f1a2b3c4d5e6f70819",
+  "Name": "Azure Translator",
+  "Description": "Azure Translator plugin for STranslate",
+  "Author": "yaonet",
+  "Version": "1.0.0",
+  "Website": "https://github.com/yaonet/STranslate.Plugin.Translate.AzureTranslator",
+  "ExecuteFileName": "STranslate.Plugin.Translate.AzureTranslator.dll",
+  "IconPath": "icon.png"
+}
